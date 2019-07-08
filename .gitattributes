@@ -1,3 +1,2 @@
-*.js linguist-language=jupyter notebook
-*.css linguist-language=jupyter notebook
-*.html linguist-language=jupyter notebook
+# Auto detect text files and perform LF normalization
+* text=auto
